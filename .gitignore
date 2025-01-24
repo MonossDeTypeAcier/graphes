@@ -1,2 +1,3 @@
 *.png 
- *.svg
+*.svg
+gh-artifacts.json
